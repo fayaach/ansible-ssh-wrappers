@@ -1,2 +1,2 @@
 # ansible-ssh-wrappers
-Provides wrappers around ssh and/or scp to get Ansible working on some environments
+Wrappers around SSH (and/or others) designed to allow Ansible to work on some restricted environments with minimal playbook modifications.
